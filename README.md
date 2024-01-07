@@ -1,7 +1,7 @@
 # Speech to Text
 ## Instruction
 
-** Created a simple web application using Flask that allows users to record their voice and get the converted text using Google Speech Recognition, you can follow the steps below: ** 
+**Created a simple web application using Flask that allows users to record their voice and get the converted text using Google Speech Recognition, you can follow the steps below:** 
 1. Make sure you have Flask and SpeechRecognition installed:
    'pip install Flask SpeechRecognition'
 
